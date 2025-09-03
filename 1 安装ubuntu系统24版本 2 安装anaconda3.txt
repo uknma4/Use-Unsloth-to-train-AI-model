@@ -1,0 +1,6 @@
+1.安装ubuntu系统(最好24以上版本,语言选择英文)。
+2.安装anaconda3. 官网repo.anaconda.com 下载。
+3.安装Nvidia Linux版本的驱动，和cuda。需要和你的显卡适配。  nvidia-smi
+4.用命令 conda create --name unsloth_env python=3.10  切换环境  conda activate unsloth_env安装unsloth
+5.在conda环境下安装unsloth. pip install Unsloth
+6.从huggingface.co上下载要训练的AI Model
