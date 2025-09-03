@@ -1,0 +1,2 @@
+﻿FROM "deepseektest-8b.gguf"
+
