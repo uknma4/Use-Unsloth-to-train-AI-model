@@ -1,4 +1,4 @@
-#演示
+#Demo
 https://m.youtube.com/@eddieliang-q3r
-##技术栈
+##Technology stack
 Ubuntu, Anaconda, Python, Ollama
